@@ -21,7 +21,7 @@ While the passing reading scores and passing writing scores experience a minor d
 
 - There was no change to the scores by school type.
 
-- Noteworthy is the top 5 schools in the district, mostly because despite the academic dishonesty, Thomas High School remains second, only behind Cabrera High School. The lower numbers in the district overall were not enough to displace them.
+- Noteworthy is the top 5 schools in the district. Despite the academic dishonesty, Thomas High School remains second, only behind Cabrera High School. The lower numbers in the district overall were not enough to displace them.
 ![Resources/Top5_Before_After.png](Resources/Top5_Before_After.png)
 
 ## Summary
