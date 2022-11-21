@@ -28,7 +28,7 @@ While the passing reading scores and passing writing scores experience a minor d
 After analyzing the data without the Thomas High School there are not many changes to report, and the changes that are present have a greater impact on Thomas High School itself than the school district as a whole.
 
 The changes that can be found in the data are as follows: 
-- the average scores and average passing percentages for the district are lower, but not likely not so much so as to be statistically significant.
+- the average scores and average passing percentages for the district are lower, but this drop is not likely enough to be statistically significant.
 - The passing percentages for Thomas High School specifically are much lower, and this change is not enough to remove them from the top 5 schools.
 - In the top 5 schools, Thomas High School's placement is more neck and neck with Griffin High School than it was previously.
 
